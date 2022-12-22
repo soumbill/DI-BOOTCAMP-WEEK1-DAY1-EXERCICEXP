@@ -1,0 +1,35 @@
+body{
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
+.seven{
+    background-color: yellow;
+}
+h3 .senses{
+    text-decoration: underline;
+}
+.history .cat{
+    text-align: center;
+}
+.history .cat h4{
+    text-align: center;
+}
+.history .cat img{
+    border: 1px solid red;
+}
+.lions h4{
+    border: 1px solid red;
+    padding: 2px;
+    text-align: center;
+}
+th, td{
+    border: 1px solid black;
+}
+.animal{
+    margin-top: 30px;
+    text-align: center;
+}
+.animal img{
+    border: 2px solid red;
+
+}
